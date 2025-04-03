@@ -24,24 +24,19 @@ Um terminal ou IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.)
 ▶️ Passos para Execução
 1️⃣ Clone o repositório:
 
-bash
-Copiar
-Editar
+
 git clone https://github.com/seu-usuario/calculadora.git  
 cd calculadora
+
+
 2️⃣ Compile o código:
 
-bash
-Copiar
-Editar
 javac Calculadora.java  
 3️⃣ Execute a aplicação:
 
-bash
-Copiar
-Editar
 java Calculadora  
 Ou, se estiver utilizando uma IDE, basta abrir o projeto e rodar a classe principal.
+
 
 🛠 Tecnologias e Conceitos Utilizados
 Java (JDK 8+)
@@ -50,7 +45,6 @@ Swing para interface gráfica
 
 Eventos e Listeners
 
-Tratamento de Exceções
 
 Orientação a Objetos (POO)
 
