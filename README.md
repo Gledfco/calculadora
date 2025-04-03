@@ -23,9 +23,7 @@ Um terminal ou IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.)
 
 ▶️ Passos para Execução
 
-
 1️⃣ Clone o repositório:
-
 
 git clone https://github.com/seu-usuario/calculadora.git  
 cd calculadora
@@ -34,6 +32,7 @@ cd calculadora
 2️⃣ Compile o código:
 
 javac Calculadora.java  
+
 3️⃣ Execute a aplicação:
 
 java Calculadora  
@@ -46,7 +45,6 @@ Java (JDK 8+)
 Swing para interface gráfica
 
 Eventos e Listeners
-
 
 Orientação a Objetos (POO)
 
