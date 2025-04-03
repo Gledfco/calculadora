@@ -22,6 +22,8 @@ Java instalado (versão 8 ou superior)
 Um terminal ou IDE (IntelliJ IDEA, Eclipse, NetBeans, etc.)
 
 ▶️ Passos para Execução
+
+
 1️⃣ Clone o repositório:
 
 
